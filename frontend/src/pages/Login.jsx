@@ -33,7 +33,6 @@ const Login = () => {
             />
           </div>
         )}
-
         <div className="w-full">
           <p>Email</p>
           <input
